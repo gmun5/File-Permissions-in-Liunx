@@ -36,3 +36,8 @@ The goal of this project was to review file and directory permissions in a Linux
 <img width="727" height="927" alt="Screenshot 2026-03-25 at 6 33 35 PM" src="https://github.com/user-attachments/assets/b70ebc43-84dc-4342-9f0c-59f54dd170bd" />
 
 *Ref 3: Linux Permission Explanations Document Page 3*
+
+## Source
+
+
+Based on a Google Skills lab
